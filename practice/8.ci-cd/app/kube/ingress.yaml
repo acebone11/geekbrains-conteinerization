@@ -8,7 +8,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: <CHANGE ME>
+  - host: glpat-LcVjK9FCxgyxeKsytKJ9
     http:
       paths:
       - path: "/users"
